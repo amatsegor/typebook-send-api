@@ -1,0 +1,11 @@
+{
+  "name": "typebook-send-api",
+  "version": "0.1.0",
+  "description": "Allows to use Facebook Send API in more comfortable builder-based way",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amatsegor/typebook-send-api.git"
+  },
+  "author": "amatsegor",
+  "license": "GPL"
+}
