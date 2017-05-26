@@ -8,5 +8,6 @@
     "url": "https://github.com/amatsegor/typebook-send-api.git"
   },
   "author": "amatsegor",
-  "license": "GPL"
+  "license": "GPL",
+  "typings": "./src/index.d.ts"
 }
