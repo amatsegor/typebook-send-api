@@ -10,3 +10,4 @@ var OpenGraphElement = (function () {
     return OpenGraphElement;
 }());
 exports.OpenGraphElement = OpenGraphElement;
+//# sourceMappingURL=OpenGraphElement.js.map

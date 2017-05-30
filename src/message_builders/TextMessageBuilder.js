@@ -34,3 +34,4 @@ var TextMessage = (function (_super) {
     return TextMessage;
 }(AbstractMessageBuilder_1.AbstractMessage));
 exports.TextMessage = TextMessage;
+//# sourceMappingURL=TextMessageBuilder.js.map

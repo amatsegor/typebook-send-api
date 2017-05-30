@@ -36,3 +36,4 @@ exports.ListPayloadTemplate = ListPayloadTemplate;
     TopElementStyle[TopElementStyle["Compact"] = 1] = "Compact";
 })(exports.TopElementStyle || (exports.TopElementStyle = {}));
 var TopElementStyle = exports.TopElementStyle;
+//# sourceMappingURL=ListPayloadTemplate.js.map

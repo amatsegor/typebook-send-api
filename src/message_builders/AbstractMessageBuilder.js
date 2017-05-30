@@ -21,3 +21,4 @@ var AbstractMessage = (function () {
     return AbstractMessage;
 }());
 exports.AbstractMessage = AbstractMessage;
+//# sourceMappingURL=AbstractMessageBuilder.js.map

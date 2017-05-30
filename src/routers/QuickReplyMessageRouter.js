@@ -21,3 +21,4 @@ var QuickReplyRouter = (function (_super) {
     return QuickReplyRouter;
 }(AbstractMessageRouter_1.AbstractMessageRouter));
 exports.QuickReplyRouter = QuickReplyRouter;
+//# sourceMappingURL=QuickReplyMessageRouter.js.map

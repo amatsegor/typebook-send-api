@@ -18,3 +18,4 @@ var OpenGraphPayloadTemplate = (function (_super) {
     return OpenGraphPayloadTemplate;
 }(AbstractPayloadTemplate_1.AbstractPayloadTemplate));
 exports.OpenGraphPayloadTemplate = OpenGraphPayloadTemplate;
+//# sourceMappingURL=OpenGraphPayloadTemplate.js.map

@@ -26,3 +26,4 @@ var UrlMessageRouter = (function (_super) {
     return UrlMessageRouter;
 }(AbstractMessageRouter_1.AbstractMessageRouter));
 exports.UrlMessageRouter = UrlMessageRouter;
+//# sourceMappingURL=UrlMessageRouter.js.map

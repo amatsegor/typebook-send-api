@@ -19,3 +19,4 @@ var ShareButton = (function (_super) {
     return ShareButton;
 }(AbstractButton_1.AbstractButton));
 exports.ShareButton = ShareButton;
+//# sourceMappingURL=ShareButton.js.map

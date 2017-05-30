@@ -26,3 +26,4 @@ var UrlMessageBuilder = (function (_super) {
     return UrlMessageBuilder;
 }(AbstractMessageBuilder_1.AbstractMessageBuilder));
 exports.UrlMessageBuilder = UrlMessageBuilder;
+//# sourceMappingURL=UrlMessageBuilder.js.map

@@ -10,3 +10,4 @@ var Adjustment = (function () {
     return Adjustment;
 }());
 exports.Adjustment = Adjustment;
+//# sourceMappingURL=Adjustment.js.map

@@ -2,9 +2,10 @@
   "compilerOptions": {
     "module": "commonjs",
     "noImplicitAny": false,
-    "sourceMap": false
+    "sourceMap": true
   },
   "include": [
+    "src/*",
     "src/**/*",
     "./**"
   ],

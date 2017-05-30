@@ -20,3 +20,4 @@ var SenderActionMessageRouter = (function (_super) {
     return SenderActionMessageRouter;
 }(AbstractMessageRouter_1.AbstractMessageRouter));
 exports.SenderActionMessageRouter = SenderActionMessageRouter;
+//# sourceMappingURL=SenderActionMessageRouter.js.map

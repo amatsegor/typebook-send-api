@@ -21,3 +21,4 @@ var AttachmentMessageRouter = (function (_super) {
     return AttachmentMessageRouter;
 }(AbstractMessageRouter_1.AbstractMessageRouter));
 exports.AttachmentMessageRouter = AttachmentMessageRouter;
+//# sourceMappingURL=AttachmentMessageRouter.js.map

@@ -17,3 +17,4 @@ var UrlPayloadTemplate = (function (_super) {
     return UrlPayloadTemplate;
 }(AbstractPayloadTemplate_1.AbstractPayloadTemplate));
 exports.UrlPayloadTemplate = UrlPayloadTemplate;
+//# sourceMappingURL=UrlPayloadTemplate.js.map

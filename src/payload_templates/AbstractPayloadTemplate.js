@@ -8,3 +8,4 @@ var AbstractPayloadTemplate = (function () {
     return AbstractPayloadTemplate;
 }());
 exports.AbstractPayloadTemplate = AbstractPayloadTemplate;
+//# sourceMappingURL=AbstractPayloadTemplate.js.map

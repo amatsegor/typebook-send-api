@@ -61,3 +61,4 @@ var QuickReply = (function () {
     return QuickReply;
 }());
 exports.QuickReply = QuickReply;
+//# sourceMappingURL=QuickReplyMessageBuilder.js.map

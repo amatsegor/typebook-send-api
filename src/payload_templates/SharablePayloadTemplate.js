@@ -20,3 +20,4 @@ var SharablePayloadTemplate = (function (_super) {
     return SharablePayloadTemplate;
 }(AbstractPayloadTemplate_1.AbstractPayloadTemplate));
 exports.SharablePayloadTemplate = SharablePayloadTemplate;
+//# sourceMappingURL=SharablePayloadTemplate.js.map

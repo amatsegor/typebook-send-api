@@ -25,3 +25,4 @@ var TextMessageRouter = (function (_super) {
     return TextMessageRouter;
 }(AbstractMessageRouter_1.AbstractMessageRouter));
 exports.TextMessageRouter = TextMessageRouter;
+//# sourceMappingURL=TextMessageRouter.js.map

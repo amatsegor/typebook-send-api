@@ -47,3 +47,4 @@ var ReceiptPayloadTemplate = (function (_super) {
     return ReceiptPayloadTemplate;
 }(SharablePayloadTemplate_1.SharablePayloadTemplate));
 exports.ReceiptPayloadTemplate = ReceiptPayloadTemplate;
+//# sourceMappingURL=ReceiptPayloadTemplate.js.map

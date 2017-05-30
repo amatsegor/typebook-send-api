@@ -8,3 +8,4 @@ var AbstractMessageRouter = (function () {
     return AbstractMessageRouter;
 }());
 exports.AbstractMessageRouter = AbstractMessageRouter;
+//# sourceMappingURL=AbstractMessageRouter.js.map

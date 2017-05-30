@@ -37,3 +37,4 @@ var SenderActionMessage = (function () {
     }
     return SenderActionMessage;
 }());
+//# sourceMappingURL=SenderActionMessageBuilder.js.map

@@ -18,3 +18,4 @@ var ButtonPayloadTemplate = (function (_super) {
     return ButtonPayloadTemplate;
 }(SharablePayloadTemplate_1.SharablePayloadTemplate));
 exports.ButtonPayloadTemplate = ButtonPayloadTemplate;
+//# sourceMappingURL=ButtonPayloadTemplate.js.map

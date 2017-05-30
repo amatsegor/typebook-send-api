@@ -9,3 +9,4 @@ var FacebookMessage = (function () {
     return FacebookMessage;
 }());
 exports.FacebookMessage = FacebookMessage;
+//# sourceMappingURL=FacebookMessage.js.map

@@ -10,3 +10,4 @@ var Attachment = (function () {
     return Attachment;
 }());
 exports.Attachment = Attachment;
+//# sourceMappingURL=Attachment.js.map

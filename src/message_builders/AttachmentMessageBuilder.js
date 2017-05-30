@@ -62,3 +62,4 @@ var AttachmentMessage = (function (_super) {
     return AttachmentMessage;
 }(AbstractMessageBuilder_1.AbstractMessage));
 exports.AttachmentMessage = AttachmentMessage;
+//# sourceMappingURL=AttachmentMessageBuilder.js.map

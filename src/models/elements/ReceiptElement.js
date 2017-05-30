@@ -26,3 +26,4 @@ var ReceiptElement = (function () {
     return ReceiptElement;
 }());
 exports.ReceiptElement = ReceiptElement;
+//# sourceMappingURL=ReceiptElement.js.map

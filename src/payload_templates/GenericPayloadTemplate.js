@@ -23,3 +23,4 @@ exports.GenericPayloadTemplate = GenericPayloadTemplate;
     ImageAspectRatio[ImageAspectRatio["Square"] = 1] = "Square";
 })(exports.ImageAspectRatio || (exports.ImageAspectRatio = {}));
 var ImageAspectRatio = exports.ImageAspectRatio;
+//# sourceMappingURL=GenericPayloadTemplate.js.map
