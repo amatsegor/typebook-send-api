@@ -34,4 +34,4 @@ export * from "../src/routers/QuickReplyMessageRouter";
 export * from "../src/routers/SenderActionMessageRouter";
 export * from "../src/routers/TextMessageRouter";
 export * from "../src/routers/UrlMessageRouter";
-export {Message} from "./Message";
+export {Message as default} from "./Message";
