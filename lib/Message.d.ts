@@ -24,3 +24,5 @@ export declare class Message {
 
     static senderActionMessage(): SenderActionMessageRouter;
 }
+
+export default Message;
