@@ -9,8 +9,5 @@
   },
   "author": "amatsegor",
   "license": "GPL",
-  "typings": "./src/index.ts",
-  "devDependencies": {
-    "dts-generator": "^2.1.0"
-  }
+  "typings": "./lib/index.d.ts"
 }
