@@ -9,5 +9,5 @@
   },
   "author": "amatsegor",
   "license": "GPL",
-  "typings": "./src/index.d.ts"
+  "typings": "./src/index.ts"
 }
