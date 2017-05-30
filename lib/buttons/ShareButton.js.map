@@ -1,0 +1,1 @@
+{"version":3,"file":"ShareButton.js","sourceRoot":"","sources":["../../src/buttons/ShareButton.ts"],"names":[],"mappings":";;;;;;AACA,+BAA6B,kBAAkB,CAAC,CAAA;AAChD;;GAEG;AAEH;IAAiC,+BAAc;IAG3C,qBAAY,UAAsB;QAC9B,kBAAM,eAAe,CAAC,CAAC;QACvB,IAAI,CAAC,cAAc,GAAG;YAClB,UAAU,EAAE,UAAU;SACzB,CAAA;IACL,CAAC;IACL,kBAAC;AAAD,CAAC,AATD,CAAiC,+BAAc,GAS9C;AATY,mBAAW,cASvB,CAAA"}
