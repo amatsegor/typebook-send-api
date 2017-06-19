@@ -6,8 +6,5 @@ import {AbstractButton} from "./AbstractButton";
 export class LogInButton extends AbstractButton {
     url: string;
 
-    constructor(callbackUrl: string) {
-        super("account_link");
-        this.url = callbackUrl;
-    }
+    constructor(callbackUrl: string);
 }

@@ -6,7 +6,7 @@ import {OpenGraphElement} from "../models/elements/OpenGraphElement";
 
 export declare class OpenGraphPayloadTemplate extends AbstractPayloadTemplate {
     elements: OpenGraphElement[];
-    template_type = "open_graph";
+    template_type;
 
     constructor(element: OpenGraphElement);
 }
